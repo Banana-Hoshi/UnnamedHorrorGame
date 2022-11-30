@@ -1,0 +1,4 @@
+repository "Horror Game Project@BananaHoshi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
